@@ -1,26 +1,18 @@
 [
     {
         "name": "sharma",
-        "email": "sharma ",
+        "email": "sharma@gmail.com",
         "phone_no": 1987654321,
         "pin": 1234,
         "Account_no": "h1y9SQ51V",
         "money": 6315
     },
     {
-        "name": "sharma",
-        "email": "",
+        "name": "anuj",
+        "email": "anuj@yahoo.com",
         "phone_no": 7898785641,
         "pin": 4589,
         "Account_no": "O4e0FH7n6",
-        "money": 0
-    },
-    {
-        "name": "manish mehra",
-        "email": "manish @",
-        "phone_no": 1234567892,
-        "pin": 4565,
-        "Account_no": "eH65S0je2",
         "money": 0
     }
 ]
